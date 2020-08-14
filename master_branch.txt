@@ -1,4 +1,4 @@
-master branch
-Namnt developer
-edit from brach developer and update master
-update developer and update master
+Master branch
+Edit from brach developer and update master
+Update developer and update master
+Branch Namnt dev
